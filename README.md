@@ -1,4 +1,4 @@
-# 🛏️ OnePlayerSleep Plugin
+# 🛏️ OnePlayerSleep Plugin - Minecraft Plugin 
 
 Skip the night with just one player in bed — perfect for SMPs and survival servers!
 
