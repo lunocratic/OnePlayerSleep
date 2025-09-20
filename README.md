@@ -8,7 +8,7 @@ This lightweight plugin lets you **skip nighttime** in Minecraft when **only one
 
 ## 📦 Installation
 
-1. Download the latest version from [**CurseForge**](https://www.curseforge.com/minecraft/bukkit-plugins/oneplayersleep-lightweight) <!-- 🔗 Put your CurseForge link here -->
+1. Download the latest version from [**CurseForge**](https://modrinth.com/plugin/oneplayersleepgg) <!-- 🔗 Put your CurseForge link here -->
 2. Place the `.jar` file into your server’s `/plugins` folder.
 3. Restart the server.
 4. You're done!
